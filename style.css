@@ -35,8 +35,8 @@ p {
 
 .panel {
   position: absolute;
-  width: 200px;
-  height: 75px;
+  width: 400px;
+  height: 100px;
   background: white;
   transition: transform 1s;
   transform-origin: 0% 50%;
